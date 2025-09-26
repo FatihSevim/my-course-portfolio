@@ -1,4 +1,4 @@
-# my-course-portfolio
+# My Course Portfolio
 
 Welcome to my academic portfolio for CEP146!
 
